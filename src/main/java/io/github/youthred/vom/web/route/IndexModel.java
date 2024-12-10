@@ -1,4 +1,4 @@
-package io.github.youthred.vom.web.model;
+package io.github.youthred.vom.web.route;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
